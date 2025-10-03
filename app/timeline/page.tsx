@@ -5,7 +5,7 @@ import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { ArrowLeft } from "lucide-react"
-import PageFooter from "@/components/page-footer"
+import { PageFooter } from "@/components/page-footer";
 
 const timelineEvents = [
   {
